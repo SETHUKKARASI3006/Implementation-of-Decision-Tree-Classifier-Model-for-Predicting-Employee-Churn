@@ -17,7 +17,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 4. Evaluation: Predict on test data, calculate accuracy, and test model with new sample input.
 
 
-## Program:
+## Program and Outputs:
 ```
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
